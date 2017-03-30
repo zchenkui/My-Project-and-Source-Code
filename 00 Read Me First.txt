@@ -1,0 +1,5 @@
+There are 4 projects in this directory and they are made from C, Matlab, Wolfram Mathematica and Python respectively. For each project, I wrote a document to help you using my code. If you have any question or advice, please tell me, thank you!
+
+my EmailÅFzbchenkui@outlook.com
+
+                                                                                      Kui Chen
